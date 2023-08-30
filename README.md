@@ -16,6 +16,11 @@
 
 - ⚡ Fun fact **I love ESports**
 
+ 🔭 My Ongoing Project - **Amazon Clone**
+ 
+ Live Update - 
+![Amaz](https://github.com/AyushChauhan3757/AyushChauhan3757/assets/65812075/5f460201-dc9d-44cf-abd2-052b7706d8f5)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ayush_3651" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayush_3651" height="30" width="40" /></a>
