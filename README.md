@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ayushc262@gmail.com**
 
-- 📄 About me - I am currently a btech student and learning full stack web development majorly focusing on Front-end development](I am currently a btech student and learning full stack web development majorly focusing on Front-end development
+- 📄 About me - I am currently a btech student and learning full stack web development majorly focusing on Front-end development. I am currently a btech student and learning full stack web development majorly focusing on Front-end development
 
 - ⚡ Fun fact **I love ESports**
 
