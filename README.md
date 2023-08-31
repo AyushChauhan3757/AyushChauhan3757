@@ -16,10 +16,7 @@
 
 - ⚡ Fun fact **I love ESports**
 
- 🔭 My Ongoing Project - **Amazon Clone**
- 
- Live Update -  **Added Navigation Bar**
-![Amaz](https://github.com/AyushChauhan3757/AyushChauhan3757/assets/65812075/5f460201-dc9d-44cf-abd2-052b7706d8f5)
+<h3 align="left">MY WORK - </h3><h2>https://ayushchauhan3757.github.io/Portfolio/</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
