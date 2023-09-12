@@ -32,7 +32,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushchauhan3757&show_icons=true&locale=en&theme=dark" alt="ayushchauhan3757" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushchauhan3757&theme=dark" alt="ayushchauhan3757" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushchauhan3757&" alt="ayushchauhan3757" /></p>
 
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=ayushchauhan3757&theme=dracula&column=7&margin-w=15&margin-h=15" alt="ayushchauhan3757's GitHub Trophies" /></p>
