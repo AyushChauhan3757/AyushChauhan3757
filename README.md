@@ -3,7 +3,6 @@
 <h1 align="center" style="color: white;">🅷🅴🅻🅻🅾, I'm Ayush Chauhan</h1>
 
 <h3 align="center" style="color: white;">Passion Of My Life - Game and Code</h3>
-
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 - 🌱 I’m currently learning **Full Stack Web Development**
